@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [io.realm:realm-android-library:6.0.2] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\f5d320088e7b686cc93ac07016793922\jetified-realm-android-library-6.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\03cadace39fb32891842ca74cec45b6b\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\2e7bd95a1ffd51ffaafd2840c46e9946\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.ceryle:RadioRealButton:v1.3] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\4ebe71dd512868b6a5b23be00846692a\jetified-RadioRealButton-v1.3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.yarolegovich:lovely-dialog:1.1.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\dce3607e53a974c8950865ec253548ed\jetified-lovely-dialog-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\b60138dbd264dce28b603be174ad3168\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\3142af28deb50003095a892ecf87ea18\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha06] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\042381a05a845b3f6f991e0c6dfd8678\recyclerview-1.2.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\d19558c8857320ad9774c7f558251b33\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.realm:android-adapters:1.4.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\31f29c2deba306cc02f811039a1d8433\jetified-android-adapters-1.4.0\AndroidManifest.xml:2:1-10:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\e0f2325c9f2d845b889ccc9af5623364\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\ac8a7a6e96c63933099cd335fd9c0737\jetified-relinker-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\7e3dd638f38a87af104b85c19cd28434\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\9574696e9c077968538eb62ed9eb0880\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\ea68d287bd11c7c1d39d64e789611e6b\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\973b88b7268793405d25e539c2a81d40\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\6e27c73b2ed5e764ec288ca3f4d9a02a\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\70a7038f2b35330e9a501f7e9131efd9\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\81931fe0c4f44306ede54c9f1b407337\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\35306a1dd3ac8acdf6f029df623e9c00\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\b5b22d9e30d56bc3a585f438dbb15f1d\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\c398b9dd7e0a51663f4dc7770b1bdef0\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\ab69ce42786716df6387492000313389\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\443ad6bfd240810ba7ff1bbe9b74a52b\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\a2123dcf79a0dd4bcd30822ac1a7587f\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\31d19f73d3fe0da35da673a91eb3fb18\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\a13eb906559e6e06eb22fef6df9611d6\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\37f058268c2b594d62cb516a4a12c5b5\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\82d1377b3e8183060f77be2fb9b30e8f\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\118efddac712c316496f5598f37c9f9c\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\6747a3b08e0c0afb109cfa709a51b969\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\4d335d2aaabf52b03cd891c862bb044f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\86d46b7ce1f3eff0462aa478b7367e02\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\dbbe4f9465a7a18143d2c36b9073985a\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\03cadace39fb32891842ca74cec45b6b\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\03cadace39fb32891842ca74cec45b6b\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\2e7bd95a1ffd51ffaafd2840c46e9946\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\2e7bd95a1ffd51ffaafd2840c46e9946\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\e0f2325c9f2d845b889ccc9af5623364\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\e0f2325c9f2d845b889ccc9af5623364\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\a2123dcf79a0dd4bcd30822ac1a7587f\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\a2123dcf79a0dd4bcd30822ac1a7587f\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\31d19f73d3fe0da35da673a91eb3fb18\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\31d19f73d3fe0da35da673a91eb3fb18\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\a2123dcf79a0dd4bcd30822ac1a7587f\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:8:9-39
+	android:roundIcon
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.ajstudios.easyattendance.Reports_Detail_Activity
+ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:12:9-14:48
+	android:theme
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:13:13-80
+activity#com.ajstudios.easyattendance.Reports_Activity
+ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:15:9-82
+	android:name
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:15:19-79
+activity#com.ajstudios.easyattendance.ClassDetail_Activity
+ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:16:9-18:54
+	android:theme
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:18:13-51
+	android:name
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:17:13-77
+activity#com.ajstudios.easyattendance.Insert_class_Activity
+ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:19:9-21:48
+	android:theme
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:20:13-78
+activity#com.ajstudios.easyattendance.MainActivity
+ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:22:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:6.0.2] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\f5d320088e7b686cc93ac07016793922\jetified-realm-android-library-6.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:6.0.2] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\f5d320088e7b686cc93ac07016793922\jetified-realm-android-library-6.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\03cadace39fb32891842ca74cec45b6b\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\03cadace39fb32891842ca74cec45b6b\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\2e7bd95a1ffd51ffaafd2840c46e9946\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\2e7bd95a1ffd51ffaafd2840c46e9946\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ceryle:RadioRealButton:v1.3] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\4ebe71dd512868b6a5b23be00846692a\jetified-RadioRealButton-v1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ceryle:RadioRealButton:v1.3] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\4ebe71dd512868b6a5b23be00846692a\jetified-RadioRealButton-v1.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yarolegovich:lovely-dialog:1.1.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\dce3607e53a974c8950865ec253548ed\jetified-lovely-dialog-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yarolegovich:lovely-dialog:1.1.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\dce3607e53a974c8950865ec253548ed\jetified-lovely-dialog-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\b60138dbd264dce28b603be174ad3168\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\b60138dbd264dce28b603be174ad3168\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\3142af28deb50003095a892ecf87ea18\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\3142af28deb50003095a892ecf87ea18\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha06] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\042381a05a845b3f6f991e0c6dfd8678\recyclerview-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha06] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\042381a05a845b3f6f991e0c6dfd8678\recyclerview-1.2.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\d19558c8857320ad9774c7f558251b33\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\d19558c8857320ad9774c7f558251b33\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.realm:android-adapters:1.4.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\31f29c2deba306cc02f811039a1d8433\jetified-android-adapters-1.4.0\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:android-adapters:1.4.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\31f29c2deba306cc02f811039a1d8433\jetified-android-adapters-1.4.0\AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\e0f2325c9f2d845b889ccc9af5623364\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\e0f2325c9f2d845b889ccc9af5623364\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\ac8a7a6e96c63933099cd335fd9c0737\jetified-relinker-1.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\ac8a7a6e96c63933099cd335fd9c0737\jetified-relinker-1.3.0\AndroidManifest.xml:5:5-43
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\7e3dd638f38a87af104b85c19cd28434\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\7e3dd638f38a87af104b85c19cd28434\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\9574696e9c077968538eb62ed9eb0880\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\9574696e9c077968538eb62ed9eb0880\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\ea68d287bd11c7c1d39d64e789611e6b\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\ea68d287bd11c7c1d39d64e789611e6b\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\973b88b7268793405d25e539c2a81d40\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\973b88b7268793405d25e539c2a81d40\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\6e27c73b2ed5e764ec288ca3f4d9a02a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\6e27c73b2ed5e764ec288ca3f4d9a02a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\70a7038f2b35330e9a501f7e9131efd9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\70a7038f2b35330e9a501f7e9131efd9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\81931fe0c4f44306ede54c9f1b407337\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\81931fe0c4f44306ede54c9f1b407337\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\35306a1dd3ac8acdf6f029df623e9c00\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\35306a1dd3ac8acdf6f029df623e9c00\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\b5b22d9e30d56bc3a585f438dbb15f1d\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\b5b22d9e30d56bc3a585f438dbb15f1d\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\c398b9dd7e0a51663f4dc7770b1bdef0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\c398b9dd7e0a51663f4dc7770b1bdef0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\ab69ce42786716df6387492000313389\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\ab69ce42786716df6387492000313389\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\443ad6bfd240810ba7ff1bbe9b74a52b\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\443ad6bfd240810ba7ff1bbe9b74a52b\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\a2123dcf79a0dd4bcd30822ac1a7587f\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\a2123dcf79a0dd4bcd30822ac1a7587f\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\31d19f73d3fe0da35da673a91eb3fb18\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\31d19f73d3fe0da35da673a91eb3fb18\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\a13eb906559e6e06eb22fef6df9611d6\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\a13eb906559e6e06eb22fef6df9611d6\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\37f058268c2b594d62cb516a4a12c5b5\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\37f058268c2b594d62cb516a4a12c5b5\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\82d1377b3e8183060f77be2fb9b30e8f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\82d1377b3e8183060f77be2fb9b30e8f\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\118efddac712c316496f5598f37c9f9c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\118efddac712c316496f5598f37c9f9c\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\6747a3b08e0c0afb109cfa709a51b969\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\6747a3b08e0c0afb109cfa709a51b969\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\4d335d2aaabf52b03cd891c862bb044f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\4d335d2aaabf52b03cd891c862bb044f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\86d46b7ce1f3eff0462aa478b7367e02\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\86d46b7ce1f3eff0462aa478b7367e02\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\dbbe4f9465a7a18143d2c36b9073985a\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\NFT\.gradle\caches\transforms-2\files-2.1\dbbe4f9465a7a18143d2c36b9073985a\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NFT\Desktop\MAD\Easy-Attendance-App-main\app\src\main\AndroidManifest.xml
